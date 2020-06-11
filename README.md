@@ -11,7 +11,7 @@ Meu portfólio de projetos de Data Science
 # Luiz Ramos
 <sub>*Cientista de Dados e Estatístico*</sub>
 
-Sou Estatístico do Centro Federal de Educação Tecnológica e Cientista de Dados da Ação Contact Center, com 5 anos de experiências em da Ciência de Dados, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. 
+Sou Estatístico do CEFET-MG e Cientista de Dados da Ação Contact Center, com 5 anos de experiências em da Ciência de Dados, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. 
 
 Minhas credenciais incluem bacharelado e especialização em Estatística pela UFMG e mestrado profissional em matemática pela UFSJ. 
 
@@ -23,13 +23,7 @@ Minhas credenciais incluem bacharelado e especialização em Estatística pela U
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Análise dos Dados do Airbnb da cidade de Nova York:** https://bit.ly/2MNuG6i
 
 ---
 
