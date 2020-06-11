@@ -9,19 +9,16 @@ Meu portfólio de projetos de Data Science
 </p>
 
 # Luiz Ramos
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Cientista de Dados e Estatístico*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Sou Estatístico do Centro Federal de Educação Tecnológica e Cientista de Dados da Ação Contact Center, com 5 anos de experiências em da Ciência de Dados, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. 
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Minhas credenciais incluem bacharelado e especialização em Estatística pela UFMG e mestrado profissional em matemática pela UFSJ. 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, R, SQL, Machine Learning, Data Science.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/luiz-fernando-pinheiro-ramos-b9a9ab1ab/)
-* [Medium](https://www.medium.com)
-
 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
