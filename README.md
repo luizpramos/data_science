@@ -21,7 +21,7 @@ Minhas credenciais incluem bacharelado e especialização em Estatística pela U
 * [LinkedIn](https://www.linkedin.com/in/luiz-fernando-pinheiro-ramos-b9a9ab1ab/)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Tutoriais publicados:
 
 * **Análise dos Dados do Airbnb da cidade de Nova York:** https://bit.ly/2MNuG6i
 
